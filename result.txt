@@ -1,0 +1,100 @@
+{"album_name": "蒙面唱将猜猜猜第三季 第7期", "song_name": "雪落下的声音 (Live)", "singer_name": "周深"}
+{"album_name": "Faded (即刻电音版)", "song_name": "Faded (即刻电音版)", "singer_name": "Alan Walker，火箭少女101"}
+{"album_name": "遥远的你", "song_name": "遥远的你 (正式版)", "singer_name": "221小伙伴"}
+{"album_name": "我不知道", "song_name": "我不知道", "singer_name": "王源"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "刀剑如梦 (Live)", "singer_name": "谭维维"}
+{"album_name": "Different World", "song_name": "Different World", "singer_name": "Alan Walker，K-391，Sofia Carson，CORSAK"}
+{"album_name": "漂流", "song_name": "漂流", "singer_name": "张碧晨"}
+{"album_name": "梦想的声音第三季 第6期", "song_name": "短发 (Live)", "singer_name": "张靓颖"}
+{"album_name": "爱‧歌姬", "song_name": "月牙湾", "singer_name": "飞儿乐团"}
+{"album_name": "睡皇后", "song_name": "岩石里的花", "singer_name": "G.E.M. 邓紫棋"}
+{"album_name": "离开我你快乐吗", "song_name": "离开我你快乐吗", "singer_name": "虎二"}
+{"album_name": "谢芳菲", "song_name": "谢芳菲", "singer_name": "双笙"}
+{"album_name": "爱情小丑", "song_name": "爱情小丑", "singer_name": "廖晶"}
+{"album_name": "生僻字", "song_name": "生僻字", "singer_name": "陈柯宇"}
+{"album_name": "陪你到底", "song_name": "陪你到底", "singer_name": "广东雨神，许华升"}
+{"album_name": "一曲相思", "song_name": "一曲相思", "singer_name": "半阳"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "爱的初体验 + Back To Black (Live)", "singer_name": "林俊杰"}
+{"album_name": "<Present: YOU> & ME Edition", "song_name": "Miracle", "singer_name": "GOT7 (갓세븐)"}
+{"album_name": "悠悠岁月", "song_name": "悠悠岁月", "singer_name": "胡夏"}
+{"album_name": "即刻电音 第1期", "song_name": "熊猫人 (Live)", "singer_name": "Panta.Q"}
+{"album_name": "拾陆", "song_name": "假装", "singer_name": "陈雪凝"}
+{"album_name": "起风了", "song_name": "起风了", "singer_name": "大神慧"}
+{"album_name": "遗书", "song_name": "遗书", "singer_name": "蔡健雅"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "李白 (Live)", "singer_name": "胡彦斌"}
+{"album_name": "幸福的理由", "song_name": "幸福的理由", "singer_name": "祁隆"}
+{"album_name": "梦想的声音第三季 第6期", "song_name": "到不了 (Live)", "singer_name": "朱兴东"}
+{"album_name": "魔杰座", "song_name": "花海", "singer_name": "周杰伦"}
+{"album_name": "回忆的沙漏（10周年版）", "song_name": "回忆的沙漏 (10周年版)", "singer_name": "G.E.M. 邓紫棋"}
+{"album_name": "不在", "song_name": "不在", "singer_name": "韩安旭"}
+{"album_name": "王源BORNFREE十八岁演唱会live音频", "song_name": "年少有为 (Live)", "singer_name": "王源"}
+{"album_name": "飞云之下", "song_name": "飞云之下", "singer_name": "韩红，林俊杰"}
+{"album_name": "梦想的声音第三季 第6期", "song_name": "纸短情长 (Live)", "singer_name": "胡彦斌"}
+{"album_name": "梦想的声音第二季 第4期", "song_name": "月牙湾 (Live)", "singer_name": "A-Lin"}
+{"album_name": "天亮以前说再见", "song_name": "天亮以前说再见", "singer_name": "何野"}
+{"album_name": "Hello", "song_name": "Hello", "singer_name": "王霏霏 (Fei)，王嘉尔"}
+{"album_name": "BLUE;S", "song_name": "Wind flower", "singer_name": "MAMAMOO (마마무)"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "记得 (Live)", "singer_name": "朱兴东"}
+{"album_name": "水仙", "song_name": "水仙", "singer_name": "何洁，苏醒"}
+{"album_name": "人不彪悍枉少年 电视剧影视原声带", "song_name": "相伴", "singer_name": "侯明昊，张耀，李明德"}
+{"album_name": "For You", "song_name": "Love You Like a Love Song", "singer_name": "Selena Gomez，The Scene"}
+{"album_name": "当你说了再见以后", "song_name": "当你说了再见以后", "singer_name": "林凡"}
+{"album_name": "王源BORNFREE十八岁演唱会live音频", "song_name": "看得最远的地方 (Live)", "singer_name": "王源"}
+{"album_name": "人不彪悍枉少年 电视剧影视原声带", "song_name": "人不彪悍枉少年", "singer_name": "侯明昊"}
+{"album_name": "CYNDILOVES2SING 爱。心凌", "song_name": "大眠", "singer_name": "王心凌"}
+{"album_name": "最好的8090后", "song_name": "最好的8090后", "singer_name": "陈柯宇"}
+{"album_name": "<Present: YOU> & ME Edition", "song_name": "WOLO", "singer_name": "王嘉尔，뱀뱀 (BamBam)，유겸 (有谦)"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "学不会 (Live)", "singer_name": "戴冰心"}
+{"album_name": "延禧攻略OST", "song_name": "雪落下的声音", "singer_name": "陆虎"}
+{"album_name": "儿子娃娃", "song_name": "儿子娃娃", "singer_name": "那吾克热LIL-EM"}
+{"album_name": "我的心里只有你没有他", "song_name": "我的心里只有你没有他", "singer_name": "大张伟"}
+{"album_name": "即刻电音 第1期", "song_name": "植物大战僵尸2.0 (Live)", "singer_name": "朴冉"}
+{"album_name": "七月的风八月的雨", "song_name": "七月的风八月的雨", "singer_name": "有点焦绿"}
+{"album_name": "王源BORNFREE十八岁演唱会live音频", "song_name": "我要我们在一起 (Live)", "singer_name": "王源"}
+{"album_name": "大江大河", "song_name": "大江大河", "singer_name": "王凯"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "离人 (Live)", "singer_name": "戴冰心"}
+{"album_name": "愈爱愈明白", "song_name": "该放手了", "singer_name": "黄小琥"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "愿望 (Live)", "singer_name": "达桑嘉措"}
+{"album_name": "风满楼", "song_name": "风满楼", "singer_name": "半阳"}
+{"album_name": "角色对调", "song_name": "角色对调", "singer_name": "庄心妍"}
+{"album_name": "短发", "song_name": "短发", "singer_name": "梁咏琪"}
+{"album_name": "你好，郑州", "song_name": "忽然", "singer_name": "李志"}
+{"album_name": "薛之谦", "song_name": "认真的雪", "singer_name": "薛之谦"}
+{"album_name": "好，难得。", "song_name": "一个人不可能", "singer_name": "丁当"}
+{"album_name": "Waste It On Me (Slushii Remix)", "song_name": "Waste It On Me (Slushii Remix)", "singer_name": "Steve Aoki，BTS (防弹少年团)"}
+{"album_name": "小梦大半", "song_name": "虚拟", "singer_name": "陈粒"}
+{"album_name": "Scorpion (Explicit)", "song_name": "God's Plan (Explicit)", "singer_name": "Drake"}
+{"album_name": "梦想的声音 第11期", "song_name": "我对自己开了一枪 (Live)", "singer_name": "金帅"}
+{"album_name": "失恋无罪", "song_name": "失恋无罪", "singer_name": "A-Lin"}
+{"album_name": "谁是大歌神 第8期", "song_name": "终于等到你 (Live)", "singer_name": "张靓颖，马臻"}
+{"album_name": "即刻电音 第1期", "song_name": "东邪西毒 (Live)", "singer_name": "Dirty Class"}
+{"album_name": "蒙面唱将猜猜猜第三季 第7期", "song_name": "暗香 (Live)", "singer_name": "于文文，周深"}
+{"album_name": "不负", "song_name": "不负", "singer_name": "汪苏泷"}
+{"album_name": "A Star Is Born Soundtrack (Explicit)", "song_name": "Shallow", "singer_name": "Lady Gaga，Bradley Cooper"}
+{"album_name": "New Year's Eve - NYE 2018/2019 (Explicit)", "song_name": "All Falls Down", "singer_name": "Alan Walker，Noah Cyrus，Digital Farm Animals，Juliander"}
+{"album_name": "<Present: YOU> & ME Edition", "song_name": "I Love It", "singer_name": "王嘉尔，뱀뱀 (BamBam)，유겸 (有谦)"}
+{"album_name": "到死都要18岁", "song_name": "情非得已", "singer_name": "庾澄庆"}
+{"album_name": "Dreamer (Remixes Vol. 1)", "song_name": "Dreamer (Nicky Romero Remix)", "singer_name": "Martin Garrix，Mike Yung"}
+{"album_name": "梦想的声音第三季 第7期", "song_name": "我是怎么了 (Live)", "singer_name": "尹圣杰"}
+{"album_name": "我的小伙伴之玫瑰物语 舞台剧专辑", "song_name": "永恒的意义", "singer_name": "迪玛希Dimash"}
+{"album_name": "Autopilot", "song_name": "Autopilot", "singer_name": "Junoflo (주노플로)，BoA (宝儿)"}
+{"album_name": "王源BORNFREE十八岁演唱会live音频", "song_name": "我 (Live)", "singer_name": "王源"}
+{"album_name": "武侍之魂", "song_name": "武侍之魂", "singer_name": "宿涵"}
+{"album_name": "All The Stars", "song_name": "All The Stars (Clean)", "singer_name": "Kendrick Lamar，SZA"}
+{"album_name": "How You Love Me", "song_name": "How You Love Me", "singer_name": "Hardwell，Conor Maynard，Snoop Dogg"}
+{"album_name": "王源BORNFREE十八岁演唱会live音频", "song_name": "一样 (Live)", "singer_name": "王源"}
+{"album_name": "她说 概念自选辑", "song_name": "我很想爱他", "singer_name": "林俊杰"}
+{"album_name": "痛在爱的边缘II 残酷的温柔", "song_name": "口是心非", "singer_name": "孙伯纶"}
+{"album_name": "Way Back", "song_name": "Way Back", "singer_name": "Vicetone，Cozi Zuehlsdorff"}
+{"album_name": "当你走了", "song_name": "当你走了", "singer_name": "Vz宇杰"}
+{"album_name": "即刻电音 第1期", "song_name": "Shadow (Live)", "singer_name": "朱婧汐JING，Atom Panda"}
+{"album_name": "2002年的第一场雪", "song_name": "冲动的惩罚", "singer_name": "刀郎"}
+{"album_name": "双栖动物", "song_name": "原点", "singer_name": "蔡健雅，孙燕姿"}
+{"album_name": "CYNDILOVES2SING 爱。心凌", "song_name": "在青春迷失的咖啡馆", "singer_name": "王心凌"}
+{"album_name": "Good Years", "song_name": "Good Years", "singer_name": "ZAYN"}
+{"album_name": "心里学", "song_name": "灰色", "singer_name": "徐佳莹"}
+{"album_name": "听见下雨的声音 电影原声带", "song_name": "听见下雨的声音", "singer_name": "魏如昀"}
+{"album_name": "回蔚莫文蔚巡回演唱会@台北小巨蛋", "song_name": "盛夏的果实 (Live)", "singer_name": "莫文蔚"}
+{"album_name": "알함브라궁전의 추억 OST Part. 1 (阿尔罕布拉宫的回忆 OST Part. 1)", "song_name": "별 (星)", "singer_name": "로꼬 (Loco)，유성은 (刘成恩)"}
+{"album_name": "夜之光", "song_name": "夜之光", "singer_name": "花姐"}
+{"album_name": "Goodbye & Hello", "song_name": "空白格", "singer_name": "蔡健雅"}
